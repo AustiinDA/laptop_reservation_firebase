@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208082816558",
+    "project_id": "reservaportatiles",
+    "storage_bucket": "reservaportatiles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208082816558:android:8240bee918d9ed012219bf",
+        "android_client_info": {
+          "package_name": "com.iessanalberto.dam2.reservaportatiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208082816558-oarjnh63brk9e627lj7220f3bro4l23f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxrHbyB8nVrUf9-qwmtVKkwPLlcQgGLRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208082816558-oarjnh63brk9e627lj7220f3bro4l23f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
